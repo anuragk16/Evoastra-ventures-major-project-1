@@ -1,8 +1,16 @@
-# Evoastra-ventures-major-project-1
+# Mice Protein Classification
 
 # Classification of Mice Based on Protein Expression Levels
 
 This project explores the impacts of **genotype**, **behavior**, and **treatment** on learning and memory by analyzing protein expression data from mice.
+
+## My Role in the Project
+
+As part of this team project, I focused on **feature selection** and **model evaluation**. My responsibilities included:
+
+- **Feature Selection**: Identifying the most informative proteins for classification by using techniques such as correlation analysis, mutual information, and feature importance derived from models.
+- **Model Evaluation**: Assessing the performance of various machine learning models through metrics like accuracy, precision, recall, and F1-score. I also worked on visualizing results using confusion matrices and optimizing the models through hyperparameter tuning.
+
 
 ## Objective
 
